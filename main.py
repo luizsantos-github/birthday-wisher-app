@@ -5,7 +5,7 @@ import random
 import pandas as pd
 
 EMAIL = "luizsantos.github@gmail.com"
-PASSWORD = "yazgjjicimkbdyml"
+PASSWORD = "test"
 
 
 def send_email(message, recipient):
